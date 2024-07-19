@@ -112,4 +112,5 @@ Develop a billing management software tailored for prepaid smart water meters. T
     python manage.py runserver
     ```
 14. PROJECT INTERFACE
-[![Screenshot](https://example.com/image.png)]
+[![Screenshot]([https://example.com/image.png](https://github.com/davidongora/Tier-Data-Hackathon/blob/main/images/Screenshot%20from%202024-06-08%2021-16-03.png))]
+[![Screenshot]([[https://example.com/image.png](https://github.com/davidongora/Tier-Data-Hackathon/blob/main/images/Screenshot%20from%202024-06-08%2021-16-03.png](https://github.com/davidongora/Tier-Data-Hackathon/blob/main/images/Screenshot%20from%202024-06-09%2017-54-54.png)))]
