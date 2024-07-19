@@ -111,6 +111,8 @@ Develop a billing management software tailored for prepaid smart water meters. T
     ```bash
     python manage.py runserver
     ```
-14. PROJECT INTERFACE
+14. Open the admin page at http://127.0.0.1:8000/admin
+    
+15. PROJECT INTERFACE
 [![Screenshot]([https://example.com/image.png](https://github.com/davidongora/Tier-Data-Hackathon/blob/main/images/Screenshot%20from%202024-06-08%2021-16-03.png))]
 [![Screenshot]([[https://example.com/image.png](https://github.com/davidongora/Tier-Data-Hackathon/blob/main/images/Screenshot%20from%202024-06-08%2021-16-03.png](https://github.com/davidongora/Tier-Data-Hackathon/blob/main/images/Screenshot%20from%202024-06-09%2017-54-54.png)))]
