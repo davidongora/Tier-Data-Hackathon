@@ -55,14 +55,19 @@ WSGI_APPLICATION = 'Backend.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'djongo',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'Tier_Data_Hackathon',
-        'ENFORCE_SCHEMA': False,
-        'CLIENT': {
-            'host': os.getenv('MONGODB_CONNECTION_STRING'),
-        }
+        'USER': os.getenv('DB_USER_NAME'),
+        'PASSWORD': os.getenv('DB_PASSWORD'),
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://c8cd-102-219-210-214.ngrok-free.app'
+]
+
 
 AUTH_PASSWORD_VALIDATORS = [
     {
