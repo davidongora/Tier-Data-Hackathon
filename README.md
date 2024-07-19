@@ -111,3 +111,5 @@ Develop a billing management software tailored for prepaid smart water meters. T
     ```bash
     python manage.py runserver
     ```
+14. PROJECT INTERFACE
+[![Screenshot](https://example.com/image.png)]
