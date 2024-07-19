@@ -1,0 +1,13 @@
+POST http://localhost:8000/customer/edit/
+Content-Type: application/json
+
+{
+  "customer_id":"3c022f4c-df55-4c77-9f58-f4d5f604da85",
+  "username": "david",
+  "first_name":"David",
+  "last_name":"Chege",
+  "password":"3333",
+  "email":"davidchege@gmail.com",
+  "phone_number":"0799957459",
+  "location":"Nairobi"
+}
