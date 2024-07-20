@@ -7,7 +7,7 @@ Develop a billing management software tailored for prepaid smart water meters. T
 1. **David Ongora**
    - **Role:** Frontend
    - **Email:** [ongoradavid5@gmail.com](mailto:ongoradavid5@gmail.com)
-   - **Mobile:** (Add mobile number here)
+   - **Mobile:** 0112027035
 
 2. **Teddy Muli**
    - **Role:** Backend
